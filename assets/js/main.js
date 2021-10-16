@@ -164,7 +164,7 @@ themeButton.addEventListener('click', () => {
 })
 
 
-const text=['Web Development','WordPress Development','Web Design'];
+const text=['Web Development','WordPress Dev','Web Design'];
 let count=0;
 let index=0;
 let currentText='';
